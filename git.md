@@ -16,6 +16,12 @@ Make a new repo on Github.com, to copy the URL
 
 `git push origin master`: push to github.com (takes it from local to online)
 
+### pulling from git:
+
+`git clone ... `: clone a repo
+
+`git pull origin master`: pulling new changes from git
+
 ### notes:
 
 `.gitignore`: this file lets you set which files for git to ignore (create-react-app makes this for you)
