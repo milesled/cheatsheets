@@ -22,6 +22,11 @@ Make a new repo on Github.com, to copy the URL
 
 `git pull origin master`: pulling new changes from git
 
+`git remote set-url origin url`: after cloning from github, changing the url it is attached to
+
 ### notes:
 
 `.gitignore`: this file lets you set which files for git to ignore (create-react-app makes this for you)
+
+`git status`: you can run this to check the status of your commit
+
